@@ -1,0 +1,5 @@
+# About this Repo
+
+This is the Git repo of the Docker [azol/altlinux-sisyphus-hasher](https://hub.docker.com/r/azol/altlinux-sisyphus-hasher/) image. See [the Docker Hub page](https://hub.docker.com/r/azol/altlinux-sisyphus-hasher/) for the full readme on how to use this Docker image.
+
+[Hasher](https://www.altlinux.org/Hasher) is modern safe package building technology.
